@@ -9,6 +9,11 @@
         "limit": 15,
         "context": "button for cancelling action"
     },
+    "button.add": {
+        "translation": "aggiungere",
+        "limit": 15,
+        "context": "toto"
+    },
     "button.cancel": {
         "translation": "partire",
         "limit": 15,
