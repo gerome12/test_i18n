@@ -10,7 +10,7 @@
         "context": "button for cancelling action"
     },
     "button.cancel": {
-        "translation": "quitter",
+        "translation": "quitter!",
         "limit": 15,
         "context": "button for cancelling action"
     },
