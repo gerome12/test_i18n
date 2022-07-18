@@ -1,4 +1,10 @@
 {
-    "1234": "398726598726598732",
-    "test": "TEST"
+    "1234": {
+        "translation": "398726598726598732",
+        "limit": 45,
+        "context": "context"
+    },
+    "test": {
+        "translation": "TEST"
+    }
 }
