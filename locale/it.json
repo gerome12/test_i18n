@@ -1,8 +1,4 @@
 {
-    "1234": {
-        "translation": "mamamia"
-    },
-    "test": {
-        "translation": "ma ke si"
-    }
+    "1234": "mamamia",
+    "test": "ma ke si"
 }
