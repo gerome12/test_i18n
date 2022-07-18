@@ -4,7 +4,17 @@
         "limit": 45,
         "context": "context"
     },
+    "button.Cancel": {
+        "translation": "Verlassen",
+        "limit": 15,
+        "context": "button for cancelling action"
+    },
+    "button.cancel": {
+        "translation": "verlassen",
+        "limit": 15,
+        "context": "button for cancelling action"
+    },
     "test": {
-        "translation": "Ein Test"
+        "translation": "Prüfung"
     }
 }
