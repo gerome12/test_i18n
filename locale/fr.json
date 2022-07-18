@@ -5,17 +5,17 @@
         "context": "context"
     },
     "button.Cancel": {
-        "translation": "Quitter??????",
+        "translation": "Quitter",
         "limit": 15,
         "context": "button for cancelling action"
     },
     "button.add": {
-        "translation": "ajouter",
+        "translation": "Ajouter",
         "limit": 15,
         "context": "toto"
     },
     "button.cancel": {
-        "translation": "quitter??????",
+        "translation": "quitter",
         "limit": 15,
         "context": "button for cancelling action"
     },
