@@ -4,6 +4,16 @@
         "limit": 45,
         "context": "context"
     },
+    "button.Cancel": {
+        "translation": "Partire",
+        "limit": 15,
+        "context": "button for cancelling action"
+    },
+    "button.cancel": {
+        "translation": "partire",
+        "limit": 15,
+        "context": "button for cancelling action"
+    },
     "test": {
         "translation": "ma ke si"
     }
