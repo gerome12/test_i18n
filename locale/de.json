@@ -1,4 +1,10 @@
 {
-    "1234": "de:11112222333344444",
-    "test": "Ein Test"
+    "1234": {
+        "translation": "11112222333344444",
+        "limit": 45,
+        "context": "context"
+    },
+    "test": {
+        "translation": "Ein Test"
+    }
 }

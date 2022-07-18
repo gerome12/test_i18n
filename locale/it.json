@@ -1,4 +1,10 @@
 {
-    "1234": "mamamia",
-    "test": "ma ke si"
+    "1234": {
+        "translation": "mamamia",
+        "limit": 45,
+        "context": "context"
+    },
+    "test": {
+        "translation": "ma ke si"
+    }
 }
