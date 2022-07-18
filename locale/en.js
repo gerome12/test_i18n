@@ -1,4 +1,8 @@
 export default {
-    "test": "TEST",
-    "1234": "4321"
+    "1234": "398726598726598732",
+    "button": {
+        "Cancel": "Cancel",
+        "cancel": "cancel"
+    },
+    "test": "TEST"
 };
