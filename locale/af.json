@@ -1,25 +1,25 @@
 {
     "1234": {
-        "translation": "1234",
+        "translation": "1234af",
         "limit": 45,
         "context": "context"
     },
     "button.Cancel": {
-        "translation": "Om te verlaat",
+        "translation": "Om te verlaataf",
         "limit": 15,
         "context": "button for cancelling action"
     },
     "button.add": {
-        "translation": "Om aan te las",
+        "translation": "Om aan te lasaf",
         "limit": 15,
         "context": "toto"
     },
     "button.cancel": {
-        "translation": "verlaat",
+        "translation": "verlaataf",
         "limit": 15,
         "context": "button for cancelling action"
     },
     "test": {
-        "translation": "toets"
+        "translation": "toetsaf"
     }
 }
